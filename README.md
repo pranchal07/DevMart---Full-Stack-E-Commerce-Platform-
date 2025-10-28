@@ -66,7 +66,3 @@ This repository contains the complete source code for building a Fullstack Ecomm
 5. **Open in Browser:**
    Open your browser and navigate to `http://localhost:8000` to access the ecommerce application.
 
-
-## License
-
-This project is licensed under the [GPL License](LICENSE). Feel free to use and modify the code for your own projects.
