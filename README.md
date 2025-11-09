@@ -36,7 +36,7 @@ This repository contains the complete source code for building a Fullstack Ecomm
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Souvikparua/COMPLETE-Fullstack-ecommerce-Responsive-MERN-App.git
+   git clone \https://github.com/pranchal07/DevMart---Full-Stack-E-Commerce-Platform-/tree/main.git
    cd COMPLETE-Fullstack-ecommerce-Responsive-MERN-App
    ```
 
